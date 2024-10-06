@@ -2,7 +2,7 @@
 ### Pràctica 1. Completem la App Comptador vist al punt 5.
 #### Alumne: Jesús Olmos  
 ---
-----
+---
 
 #### 1. Anàlisi de l'estructura del projecte
 
@@ -119,7 +119,8 @@ override fun onRestoreInstanceState(estat: Bundle) {
 ```
 Amb aquestes modificacions al còdi podrem rotar, pausar o eixir de la aplicació (sense tancar-la desde el dispositiu) i mantindrem el estat del valor de comptador.
 
-=========================================================
+---
+---
 
 #### 4. Ampliant la funcionalitat amb decrements i resets
 
